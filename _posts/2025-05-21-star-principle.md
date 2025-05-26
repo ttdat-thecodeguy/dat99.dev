@@ -1,7 +1,7 @@
 ---
 title: Nguyên tắc STAR trong môi trường phỏng vấn chuyên nghiệp
 date: 2025-05-21 14:22:00 +/-TTTT
-categories: [ Interview, STAR ]
+categories: [ Interview Tips, STAR ]
 tags: [ STAR ]   
 authors: dat99
 ---
@@ -18,4 +18,15 @@ Star là viết tắt của
 
 ### Áp dụng nguyên tắc STAR hiểu quả để chinh phục nhà tuyển dụng
 
+a. Xác định tình huống (Situation)
 
+Chọn 1 tình huống đặc biệt mà bạn gặp phải và bạn phải thể hiện xuất sắc trong tình huống đó
+=> mục đích: giúp nhà tuyển dụng hiểu được bối cảnh, công việc bạn đang làm
+
+ví dụ: Khi còn là nhân viên cty A, tôi đã làm chức năng quản lí group với thời hạn là 1 tuần để xử lí API và xây dựng UI
+
+b. Phân tích nhiệm vụ (Task)
+Ở phần này, hãy nêu các điểm 
+
+c. Mô tả hành động (Action)
+d. Trình bày kết quả (Result)
